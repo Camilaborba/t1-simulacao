@@ -1,0 +1,46 @@
+
+r
+java:S1104
+"PMake time a static final constant or non-public and provide accessors if needed.(¿¥áøûÿÿÿÿ8§ø³Úò1
+v
+java:S1104"TMake prevTime a static final constant or non-public and provide accessors if needed.(™àËåøÿÿÿÿ8§ø³Úò1
+w
+java:S1104"ZMake queueScheduler a static final constant or non-public and provide accessors if needed.(Û·ÆŸ8§ø³Úò1
+}
+java:S1104"[Make scheduledEvents a static final constant or non-public and provide accessors if needed.(¸øó¤úÿÿÿÿ8§ø³Úò1
+{
+java:S1104"YMake timeQueueSize a static final constant or non-public and provide accessors if needed.(üªÀœÿÿÿÿÿ8§ø³Úò1
+L
+java:S1444
+"*Make this "public static time" field final(¿¥áøûÿÿÿÿ8§ø³Úò1
+P
+java:S1444".Make this "public static prevTime" field final(™àËåøÿÿÿÿ8§ø³Úò1
+Q
+java:S1444"4Make this "public static queueScheduler" field final(Û·ÆŸ8§ø³Úò1
+W
+java:S1444"5Make this "public static scheduledEvents" field final(¸øó¤úÿÿÿÿ8§ø³Úò1
+U
+java:S1444"3Make this "public static timeQueueSize" field final(üªÀœÿÿÿÿÿ8§ø³Úò1
+:
+java:S2386"Make this member "protected".(Û·ÆŸ8ãúàÛò1
+?
+java:S2386"Make this member "protected".(¸øó¤úÿÿÿÿ8ë¢àÛò1
+?
+java:S2386"Make this member "protected".(üªÀœÿÿÿÿÿ8¿áÛò1
+t
+java:S3776w"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(†¥®¨úÿÿÿÿ8”ú³Úò1
+V	java:S106Ê"9Replace this use of System.out or System.err by a logger.(åäŠÛ8œú³Úò1
+V	java:S106Ë"9Replace this use of System.out or System.err by a logger.(¤ƒƒê8œú³Úò1
+V	java:S106Î"9Replace this use of System.out or System.err by a logger.(¤‰—Ú8ú³Úò1
+V	java:S106Ğ"9Replace this use of System.out or System.err by a logger.(Èÿúö8ú³Úò1
+[	java:S106×"9Replace this use of System.out or System.err by a logger.(îÔ¡‹øÿÿÿÿ8ú³Úò1
+[	java:S106Ş"9Replace this use of System.out or System.err by a logger.(îÔ¡‹øÿÿÿÿ8Ÿú³Úò1
+V	java:S106å"9Replace this use of System.out or System.err by a logger.(Ÿ‰‚î8 ú³Úò1
+U	java:S106è"9Replace this use of System.out or System.err by a logger.(ı±î8¡ú³Úò1
+d
+java:S3457ì"AFormat specifiers should be used instead of string concatenation.(ÇÙ«àüÿÿÿÿ8ÖßàÛò1
+[	java:S106ì"9Replace this use of System.out or System.err by a logger.(ÇÙ«àüÿÿÿÿ8äıÏÚò1
+d
+java:S3457î"AFormat specifiers should be used instead of string concatenation.(á†œ€úÿÿÿÿ8ÖßàÛò1
+[	java:S106î"9Replace this use of System.out or System.err by a logger.(á†œ€úÿÿÿÿ8äıÏÚò1
+V	java:S106ğ"9Replace this use of System.out or System.err by a logger.(ƒ¿”î8äıÏÚò1
